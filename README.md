@@ -2,12 +2,8 @@
 
 Welcome to my GitHub profile! I am passionate about software development, open source contributions, and continuous learning.
 
-## 🔭 Current Projects
-- **[Project A](https://github.com/dennis-kachila/project-a)**: A web application built with React and Node.js.
-- **[Project B](https://github.com/dennis-kachila/project-b)**: An automation tool using Python and Selenium.
-
 ## 🌱 Learning and Development
-- Currently learning advanced TypeScript and exploring Deno.
+- Currently Learning Adanced Matlab & Simulnk Development.
 - Interested in cloud technologies and working towards AWS certification.
 
 ## 👯 Collaboration
@@ -15,7 +11,6 @@ Welcome to my GitHub profile! I am passionate about software development, open s
 - Feel free to reach out if you have an exciting project idea!
 
 ## 💬 Ask Me About
-- Full-stack web development
 - Python scripting and automation
 - MATLAB for numerical computing
 - C/C++ programming
@@ -28,9 +23,8 @@ Welcome to my GitHub profile! I am passionate about software development, open s
 - I love hiking and exploring new trails during weekends.
 
 ## 🛠️ Languages and Tools
-- **Languages**: JavaScript, Python, TypeScript, SQL, MATLAB, C/C++
-- **Frameworks**: React, Node.js, Express, Django
-- **Tools**: Git, Docker, AWS, VS Code
+- **Languages**: Python, SQL, MATLAB, C/C++, R
+- **Tools**: Git, Docker, VS Code
 
 ## 📈 GitHub Stats
 ![Dennis Kachila's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennis-kachila&show_icons=true&theme=radical)
