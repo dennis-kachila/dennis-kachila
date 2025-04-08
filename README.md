@@ -1,6 +1,6 @@
 # Hi there, I'm Dennis Kachila 👋
 
-Welcome to my GitHub profile! I am passionate about software development, open source contributions, and continuous learning.
+Welcome to my GitHub profile! I am passionate about software development, open source contributions, and continuous learning with an Engineering background.
 
 ## 🌱 Learning and Development
 - Currently Learning Adanced Matlab & Simulnk Development.
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am passionate about software development, open s
 - LinkedIn: [Dennis Kachila](https://www.linkedin.com/in/dennis-kachila)
 
 ## ⚡ Fun Fact
-- I love hiking and exploring new trails during weekends.
+- Just between you and me I believe there are Aliens out there.
 
 ## 🛠️ Languages and Tools
 - **Languages**: Python, SQL, MATLAB, C/C++, R
