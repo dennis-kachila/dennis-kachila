@@ -42,8 +42,8 @@ If you're working on something cool (especially open source), let’s talk!
 ## 📫 Get in Touch
 - 📧 Email: [denniskachila4332@gmail.com](mailto:denniskachila4332@gmail.com)
 - 🔗 LinkedIn: [Dennis Kachila](https://www.linkedin.com/in/dennis-kachila)
-- 🌐 Portfolio: [My Website](https://dennis-kachila.github.io) *(Optional if live)*
-- 💬 WhatsApp: +254758314508
+- 🌐 Portfolio: [My Website](https://dennis-kachila.github.io)
+- 💬 WhatsApp: [Message Me on WhatsApp](https://wa.me/254758314508)
 
 ---
 
