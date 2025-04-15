@@ -8,9 +8,10 @@ I'm a Biomedical Engineer and passionate software developer based in Nairobi, Ke
 
 ## 🔭 Current Focus
 - Engineering full-system simulations and modeling in **MATLAB & Simulink**
-- Designing **IoT-driven medical devices**
+- Designing **IoT-driven medical devices** using Embedded System
 - Exploring **AWS Cloud technologies** and pursuing certification
-- Developing cross-platform dashboards and automation scripts using **Python** and **JavaScript**
+- End-to-end circuit design and simulation using PSpice, followed by PCB production and prototyping with EasyEDA
+- Engaged in MEP (Mechanical, Electrical, and Plumbing) Engineering for building systems and infrastructure projects using BIM softwares
 
 ---
 
