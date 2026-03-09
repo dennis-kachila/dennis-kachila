@@ -1,6 +1,4 @@
-# 👋 Hi there, I'm Dennis Kachila
-
-Welcome to my GitHub profile!
+# 👋 Hello, I'm Dennis Kachila
 
 I'm a Biomedical Engineer and passionate software developer based in Nairobi, Kenya. I specialize in engineering solutions that intersect **healthcare**, **embedded systems**, and **intelligent automation**. With hands-on experience in both clinical and technical environments, I bring together coding, CAD design, and hardware integration to build real-world systems.
 
